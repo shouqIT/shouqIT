@@ -50,9 +50,9 @@ I'm an Information Technology student at King Abdulaziz University, passionate a
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/shouq-alkhathami-559779362?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouq-alkhathami-559779362?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([YOUR_X_LINK](https://x.com/shouqpc?s=11&t=S9A49fZ-rnWat07Muu6pbA))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shouqpc?s=11&t=S9A49fZ-rnWat07Muu6pbA)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shouqIT)
