@@ -2,7 +2,7 @@
 
 ### 🎓 Information Tchnology Student | 💻 Software Development | 📊 Data Analytics
 
-I'm an Information Systems student at King Abdulaziz University, passionate about software development, data analytics, and building useful technology solutions.
+I'm an Information Technology student at King Abdulaziz University, passionate about software development, data analytics, and building useful technology solutions.
 
 🌱 Currently learning and improving my programming and software development skills.
 
