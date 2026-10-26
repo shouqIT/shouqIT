@@ -1,15 +1,20 @@
 # Hi, I'm Shouq! 👋🏻
 
-### 🎓 Information Tchnology Student | 💻 Software Development | 📊 Data Analytics
+### 🎓 Information Tchnology Student | 💻 Software Development | 🎨 UI/UX design
 
-I'm an Information Technology student at King Abdulaziz University, passionate about software development, data analytics, and building useful technology solutions.
+👩🏻‍💻 About Me
+- 🎓 I'm an Information Technology student at King Abdulaziz University.
+- 💻 I'm passionate about programming, front-end and back-end development, and UI/UX design.
+- 🧩 I enjoy solving problems and turning ideas into meaningful digital solutions.
+- 🌱 I'm always eager to learn, grow my skills, and explore new technologies.
+- 🤝 I value teamwork, sharing ideas, and learning from others.
 
-🌱 Currently learning and improving my programming and software development skills.
 
 💡 Interested in:
 - Software Development
 - Data Analytics
-- Backend Development
+- Backend & Frontend Development
+- UI/UX design
 - Problem Solving
 - Innovative Technology Solutions
 
