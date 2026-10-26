@@ -2,6 +2,7 @@
 
 ### 🎓 Information Tchnology Student | 💻 Software Development | 🎨 UI/UX design
 
+
 👩🏻‍💻 About Me
 - 🎓 I'm an Information Technology student at King Abdulaziz University.
 - 💻 I'm passionate about programming, front-end and back-end development, and UI/UX design.
@@ -10,11 +11,13 @@
 - 🤝 I value teamwork, sharing ideas, and learning from others.
 
 
+
 💡 Interested in:
 - Software Development
 - Data Analytics
 - Backend & Frontend Development
 - UI/UX design
+- Git & GitHub
 - Problem Solving
 - Innovative Technology Solutions
 
@@ -39,17 +42,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
----
-
-## 📚 Currently Learning
-
-- Java & Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Systems
-- Web Development
-- Git & GitHub
-- Data Analytics
 
 ---
 
